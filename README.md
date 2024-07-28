@@ -1,2 +1,2 @@
-# iptv
-iptv playlist
+# Saluran TV
+Daftar saluran televisi
